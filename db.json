@@ -1,17 +1,14 @@
 {
     "resultCount":20,
     "results": [
-    {"latitud": 19.3329, "longitud": -99.1851108,"titulo": "islas", "subtitulo": "recreativo"},
-    {"latitud":19.59069,"longitud":-99.246636,"titulo":"Estadio Olimpico","subtitulo": "Deportes"},
+    {"wrapperType":"track","latitud": 19.3329, "longitud": -99.1851108,"titulo": "islas", "subtitulo": "recreativo"},
+    {"wrapperType":"track","latitud":19.59069,"longitud":-99.246636,"titulo":"Estadio Olimpico","subtitulo": "Deportes"},
     {"latitud":19.329502,"longitud":-99.177303,"titulo":"Veterinaria","subtitulo":"Facultad"},
     {"latitud": 19.333132,"longitud": -99.180247,"titulo":"Medicina","subtitulo":"Facultad"},
     {"latitud":19.331942,"longitud":-99.181244,"titulo":"Química","subtitulo":"Facultad"},
     {"latitud":19.333406,"longitud":-19.333406,"titulo":"Biblioteca Central","subtitulo": "Libros"},
     {"latitud":19.33114,"longitud":-99.187717,"titulo":"MUCA","subtitulo":"Museo"},
-    {"latitud":19.33487,"longitud":-99.18341,
-    "titulo":"Economia",
-    "subtitulo":"Facultad"
-    },
+    {"latitud":19.33487,"longitud":-99.18341,"titulo":"Economia","subtitulo":"Facultad"},
     {
     "latitud":19.33463,
     "longitud":-99.185838,
